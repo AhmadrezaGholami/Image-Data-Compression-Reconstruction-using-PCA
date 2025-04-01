@@ -60,11 +60,6 @@ For more details, visit the Kaggle Notebook where the PCA model was trained:
     "reconstructed_image": "data:image/png;base64,iVBORw..."
 }
 ```
-
----
-### 📜 License
-📝 This project is licensed under the **MIT License**.
-
 ---
 ### 🌟 Show Your Support!
 If you like this project, please ⭐️ the repository!
